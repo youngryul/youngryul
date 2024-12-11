@@ -6,7 +6,7 @@
 
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">📍 Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -33,9 +33,10 @@
 </div>
 
 <br>
-[![ryul's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngryul)](https://github.com/youngryul/github-readme-stats)
-<!-- git 활동 --> 
-<h3 align="center">✨ Git ✨</h3>
-<div align="center">
 
+<!-- git 활동 --> 
+<h3 align="center">📍 Git </h3>
+<div align="center">
+    <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=youngryul&theme=prussian&show_icons=true"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=youngryul&theme=prussian&layout=compact"/> </a>
 </div>
