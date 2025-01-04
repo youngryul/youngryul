@@ -40,3 +40,7 @@
     <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=youngryul&theme=prussian&show_icons=true"/> </a>
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=youngryul&theme=prussian&layout=compact"/> </a>
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/youngryul?pet-id=1" width="1000" height="400"/>
+</a>
